@@ -1,0 +1,1 @@
+give @s feather{display:{Name:'{"text":"Reset dialogue","color":"red","italic":false}'},ResetDial:1b} 1

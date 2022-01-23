@@ -1,0 +1,1 @@
+give @s feather{display:{Name:'{"text":"Remove dialogue","color":"dark_red","italic":false}'},RemoveDial:1b} 1
